@@ -1,8 +1,6 @@
 # bandsound-artist-preview
 
-BandSound Artist — macOS preview (unsigned, unnotarized)
-
-https://github.com/dan-justiniac/bandsound-artist-release/releases/tag/0.1.0-preview
+[BandSound Artist — macOS preview (unsigned, unnotarized)](https://github.com/dan-justiniac/bandsound-artist-release/releases/download/0.1.0-preview/BandSound-Artist-0.1.0-preview-mac-universal.dmg)
 
 How to install (Universal build: Apple Silicon + Intel)
 1) Open the DMG (BandSound-Artist-0.1.0-preview-mac-universal.dmg).
